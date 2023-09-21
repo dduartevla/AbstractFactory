@@ -1,6 +1,6 @@
 public interface ItemFactory {
 
-    Tonico criaTonico();
+    Oleo criaOleo();
     Pocao criaPocao();
     Granada criaGranada();
 

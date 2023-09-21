@@ -1,6 +1,6 @@
 public class FabricaItemVeneno implements ItemFactory{
-    public Tonico criaTonico() {
-        return new TonicoVeneno();
+    public Oleo criaOleo() {
+        return new OleoVeneno();
     }
 
     public Pocao criaPocao() {

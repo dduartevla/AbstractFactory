@@ -1,4 +1,4 @@
-public interface Tonico {
+public interface Oleo {
     String criar();
 
     String usar();
